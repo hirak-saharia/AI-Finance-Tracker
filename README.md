@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project with an AI flavour.
+This is a [Next.js](https://nextjs.org) project with an AI flavour which would helps us to track our day to day finance uses as well as reduce manual effor on capturing data.
 
 ## Getting Started
 
