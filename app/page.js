@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export default function Home() {
-  return <div>Welcome to AI Finance</div>;
+  return <Button variant="destructive">Welcome to AI Finance</Button>;
 }
