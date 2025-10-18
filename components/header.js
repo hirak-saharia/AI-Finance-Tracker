@@ -10,15 +10,15 @@ const Header = async () => {
   //await checkUser();
 
   return (
-    <header className="fixed top-0 w-full bg-blue-900 backdrop-blur-md z-50 border-b border-blue-900">
+    <header className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b">
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
           <Image
-            src={"/Saharia Zone.png"}
+            src={"/logo.png"}
             alt="Welth Logo"
             width={200}
             height={60}
-            className="h-14 w-auto object-contain"
+            className="h-12 w-auto object-contain"
           />
         </Link>
 
